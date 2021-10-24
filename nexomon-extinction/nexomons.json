@@ -1,0 +1,2288 @@
+[
+  {
+    "id": 1,
+    "name": "Cloddy",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/cloddy-1024x723.png",
+    "kind": "Normal"
+  },
+  {
+    "id": 2,
+    "name": "Cubdy",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/cubdy-1024x723.png",
+    "kind": "Normal"
+  },
+  {
+    "id": 3,
+    "name": "Lukuma",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/lukuma-1024x723.png",
+    "kind": "Normal"
+  },
+  {
+    "id": 4,
+    "name": "Kolphur",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/kolphur-1024x723.png",
+    "kind": "Fire"
+  },
+  {
+    "id": 5,
+    "name": "Sulphlo",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/sulphlo-1024x723.png",
+    "kind": "Fire"
+  },
+  {
+    "id": 6,
+    "name": "Moltano",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/moltano-1024x723.png",
+    "kind": "Fire"
+  },
+  {
+    "id": 7,
+    "name": "Bloopish",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/bloopish-1024x723.png",
+    "kind": "Water"
+  },
+  {
+    "id": 8,
+    "name": "Glimoory",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/glimoory-1024x723.png",
+    "kind": "Water"
+  },
+  {
+    "id": 9,
+    "name": "Glamoory",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/goldine-1024x723.png",
+    "kind": "Water"
+  },
+  {
+    "id": 10,
+    "name": "Spikus",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/spikus-1024x723.png",
+    "kind": "Plant"
+  },
+  {
+    "id": 11,
+    "name": "Spikarm",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/spikarm-1024x723.png",
+    "kind": "Plant"
+  },
+  {
+    "id": 12,
+    "name": "Thornox",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/thornox-1024x723.png",
+    "kind": "Plant"
+  },
+  {
+    "id": 13,
+    "name": "Pebglem",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/pebglem-1024x723.png",
+    "kind": "Mineral"
+  },
+  {
+    "id": 14,
+    "name": "Gemock",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/gemock-1024x723.png",
+    "kind": "Mineral"
+  },
+  {
+    "id": 15,
+    "name": "Gemaxar",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/gemaxar-1024x723.png",
+    "kind": "Mineral"
+  },
+  {
+    "id": 16,
+    "name": "Heliwurm",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/Heliwurm-1024x723.png",
+    "kind": "Wind"
+  },
+  {
+    "id": 17,
+    "name": "Helipa",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/Helipa-1024x723.png",
+    "kind": "Wind"
+  },
+  {
+    "id": 18,
+    "name": "Heliventus",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/Heliventus-1024x723.png",
+    "kind": "Wind"
+  },
+  {
+    "id": 19,
+    "name": "Zumble",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/zumble-1024x723.png",
+    "kind": "Electric"
+  },
+  {
+    "id": 20,
+    "name": "Zasp",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/zasp-1024x723.png",
+    "kind": "Electric"
+  },
+  {
+    "id": 21,
+    "name": "Zappnic",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/zappnic-1024x723.png",
+    "kind": "Electric"
+  },
+  {
+    "id": 22,
+    "name": "Branipus",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/branipus-1024x723.png",
+    "kind": "Psychic"
+  },
+  {
+    "id": 23,
+    "name": "Cerebrius",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/cerebrius-1024x723.png",
+    "kind": "Psychic"
+  },
+  {
+    "id": 24,
+    "name": "Octollect",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/octollect-1024x723.png",
+    "kind": "Psychic"
+  },
+  {
+    "id": 25,
+    "name": "Skerdi",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/skerdi-1024x723.png",
+    "kind": "Ghost"
+  },
+  {
+    "id": 26,
+    "name": "Aferaid",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/aferaid-1024x723.png",
+    "kind": "Ghost"
+  },
+  {
+    "id": 27,
+    "name": "Dreddiful",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/dreddiful-1024x723.png",
+    "kind": "Ghost"
+  },
+  {
+    "id": 28,
+    "name": "Griff",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/griff-1024x723.png",
+    "kind": "Normal"
+  },
+  {
+    "id": 29,
+    "name": "Griffgar",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/griffgar-1024x723.png",
+    "kind": "Normal"
+  },
+  {
+    "id": 30,
+    "name": "Lioness",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/lioness-1-1024x723.png",
+    "kind": "Normal"
+  },
+  {
+    "id": 31,
+    "name": "Flizard",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/flizard-1024x723.png",
+    "kind": "Fire"
+  },
+  {
+    "id": 32,
+    "name": "Stinger",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/stinger-1024x723.png",
+    "kind": "Fire"
+  },
+  {
+    "id": 33,
+    "name": "Moonsting",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/moonsting-1024x723.png",
+    "kind": "Fire"
+  },
+  {
+    "id": 34,
+    "name": "Sunknight",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/sunknight-1024x723.png",
+    "kind": "Fire"
+  },
+  {
+    "id": 35,
+    "name": "Faucefant",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/faucefant-1024x723.png",
+    "kind": "Water"
+  },
+  {
+    "id": 36,
+    "name": "Draniphant",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/draniphant-1024x723.png",
+    "kind": "Water"
+  },
+  {
+    "id": 37,
+    "name": "Tuskant",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/tuskant-1024x723.png",
+    "kind": "Water"
+  },
+  {
+    "id": 38,
+    "name": "Shromporo",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/shromporo-1024x723.png",
+    "kind": "Plant"
+  },
+  {
+    "id": 39,
+    "name": "Shrombrela",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/shrombrela-1024x723.png",
+    "kind": "Plant"
+  },
+  {
+    "id": 40,
+    "name": "Shromboff",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/shromboff-1024x723.png",
+    "kind": "Plant"
+  },
+  {
+    "id": 41,
+    "name": "Fortle",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/fortle-1024x723.png",
+    "kind": "Mineral"
+  },
+  {
+    "id": 42,
+    "name": "Fortoise",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/fortoise-1024x723.png",
+    "kind": "Mineral"
+  },
+  {
+    "id": 43,
+    "name": "Fortank",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/fortank-1024x723.png",
+    "kind": "Mineral"
+  },
+  {
+    "id": 44,
+    "name": "Larkito",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/larkito-1024x723.png",
+    "kind": "Wind"
+  },
+  {
+    "id": 45,
+    "name": "Moska",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/moska-1024x723.png",
+    "kind": "Wind"
+  },
+  {
+    "id": 46,
+    "name": "Sakka",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/sakka-1024x723.png",
+    "kind": "Wind"
+  },
+  {
+    "id": 47,
+    "name": "Chibbit",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/chibbit-1024x723.png",
+    "kind": "Electric"
+  },
+  {
+    "id": 48,
+    "name": "Xotor",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/xotor-1024x723.png",
+    "kind": "Electric"
+  },
+  {
+    "id": 49,
+    "name": "Odiborg",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/odiborg-1024x723.png",
+    "kind": "Electric"
+  },
+  {
+    "id": 50,
+    "name": "Dreaver",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/dreaver-1024x723.png",
+    "kind": "Psychic"
+  },
+  {
+    "id": 51,
+    "name": "Dredmore",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/dredmore-1024x723.png",
+    "kind": "Psychic"
+  },
+  {
+    "id": 52,
+    "name": "Dredrone",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/dredrone-1024x723.png",
+    "kind": "Psychic"
+  },
+  {
+    "id": 53,
+    "name": "Ghouze",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/ghouze-1024x723.png",
+    "kind": "Ghost"
+  },
+  {
+    "id": 54,
+    "name": "Mazecter",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/mazecter-1024x723.png",
+    "kind": "Ghost"
+  },
+  {
+    "id": 55,
+    "name": "Taipluff",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/taipluff-1024x723.png",
+    "kind": "Normal"
+  },
+  {
+    "id": 56,
+    "name": "Fistuff",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/fistuff-1024x723.png",
+    "kind": "Normal"
+  },
+  {
+    "id": 57,
+    "name": "Ninstuff",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/ninstuff-1024x723.png",
+    "kind": "Normal"
+  },
+  {
+    "id": 58,
+    "name": "Keromb",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/keromb-1024x723.png",
+    "kind": "Fire"
+  },
+  {
+    "id": 59,
+    "name": "Kerosion",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/kerosion-1024x723.png",
+    "kind": "Fire"
+  },
+  {
+    "id": 60,
+    "name": "Snaibble",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/snaibble-1-1024x723.png",
+    "kind": "Water"
+  },
+  {
+    "id": 61,
+    "name": "Snaiflow",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/snaiflow-1024x723.png",
+    "kind": "Water"
+  },
+  {
+    "id": 62,
+    "name": "Snaijet",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/snaijet-1024x723.png",
+    "kind": "Water"
+  },
+  {
+    "id": 63,
+    "name": "Onin",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/onin-1024x723.png",
+    "kind": "Plant"
+  },
+  {
+    "id": 64,
+    "name": "Peltry",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/peltry-1024x723.png",
+    "kind": "Plant"
+  },
+  {
+    "id": 65,
+    "name": "Bouldion",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/bouldion-1024x723.png",
+    "kind": "Mineral"
+  },
+  {
+    "id": 66,
+    "name": "Bouldcran",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/bouldcran-1024x723.png",
+    "kind": "Mineral"
+  },
+  {
+    "id": 67,
+    "name": "Baloompa",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/baloompa-1024x723.png",
+    "kind": "Wind"
+  },
+  {
+    "id": 68,
+    "name": "Blimpapa",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/blimpapa-1024x723.png",
+    "kind": "Wind"
+  },
+  {
+    "id": 69,
+    "name": "Bulbrit",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/bulbrit-1024x723.png",
+    "kind": "Electric"
+  },
+  {
+    "id": 70,
+    "name": "Cromeon",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/cromeon-1024x723.png",
+    "kind": "Electric"
+  },
+  {
+    "id": 71,
+    "name": "Virox",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/virox-1024x723.png",
+    "kind": "Psychic"
+  },
+  {
+    "id": 72,
+    "name": "Bactoul",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/bactoul-1024x723.png",
+    "kind": "Psychic"
+  },
+  {
+    "id": 73,
+    "name": "Cranillow",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/cranillow-1024x723.png",
+    "kind": "Ghost"
+  },
+  {
+    "id": 74,
+    "name": "Swactrum",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/swactrum-1024x723.png",
+    "kind": "Ghost"
+  },
+  {
+    "id": 75,
+    "name": "Rubby",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/rubby-1024x723.png",
+    "kind": "Normal"
+  },
+  {
+    "id": 76,
+    "name": "Runk",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/runk-1024x723.png",
+    "kind": "Normal"
+  },
+  {
+    "id": 77,
+    "name": "Deember",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/deember-1024x723.png",
+    "kind": "Fire"
+  },
+  {
+    "id": 78,
+    "name": "Deebuz",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/deebuz-1024x723.png",
+    "kind": "Fire"
+  },
+  {
+    "id": 79,
+    "name": "Antlorm",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/antlorm-1024x723.png",
+    "kind": "Fire"
+  },
+  {
+    "id": 80,
+    "name": "Varawirl",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/varawirl-1024x723.png",
+    "kind": "Water"
+  },
+  {
+    "id": 81,
+    "name": "Ploriol",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/ploriol-1024x723.png",
+    "kind": "Plant"
+  },
+  {
+    "id": 82,
+    "name": "Bomriol",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/bomriol-1024x723.png",
+    "kind": "Plant"
+  },
+  {
+    "id": 83,
+    "name": "Bloomriol",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/bloomriol-1024x723.png",
+    "kind": "Plant"
+  },
+  {
+    "id": 84,
+    "name": "Shardrine",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/shardrine-1024x723.png",
+    "kind": "Mineral"
+  },
+  {
+    "id": 85,
+    "name": "Shardrillion",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/shardrillion-1024x723.png",
+    "kind": "Mineral"
+  },
+  {
+    "id": 86,
+    "name": "Sounse",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/sounse-1024x723.png",
+    "kind": "Wind"
+  },
+  {
+    "id": 87,
+    "name": "Mound",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/mound-1024x723.png",
+    "kind": "Wind"
+  },
+  {
+    "id": 88,
+    "name": "Scaratic",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/scaratic-1024x723.png",
+    "kind": "Electric"
+  },
+  {
+    "id": 89,
+    "name": "Enercer",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/enercer-1-1024x723.png",
+    "kind": "Electric"
+  },
+  {
+    "id": 90,
+    "name": "Medlass",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/medlass-1024x723.png",
+    "kind": "Psychic"
+  },
+  {
+    "id": 91,
+    "name": "Madamusa",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/madamusa-1024x723.png",
+    "kind": "Psychic"
+  },
+  {
+    "id": 92,
+    "name": "Brumtler",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/brumtler-1024x723.png",
+    "kind": "Ghost"
+  },
+  {
+    "id": 93,
+    "name": "Brumenie",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/brumenie-1024x723.png",
+    "kind": "Ghost"
+  },
+  {
+    "id": 94,
+    "name": "Moga",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/moga-1024x723.png",
+    "kind": "Normal"
+  },
+  {
+    "id": 95,
+    "name": "Monkapow",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/monkapow-1024x723.png",
+    "kind": "Normal"
+  },
+  {
+    "id": 96,
+    "name": "Scalder",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/scalder-1024x723.png",
+    "kind": "Water"
+  },
+  {
+    "id": 97,
+    "name": "Scailla",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/scailla-1024x723.png",
+    "kind": "Water"
+  },
+  {
+    "id": 98,
+    "name": "Bushnome",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/bushnome-1024x723.png",
+    "kind": "Plant"
+  },
+  {
+    "id": 99,
+    "name": "Rappub",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/rappub-1024x723.png",
+    "kind": "Psychic"
+  },
+  {
+    "id": 100,
+    "name": "Caninui",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/caninui-1024x723.png",
+    "kind": "Psychic"
+  },
+  {
+    "id": 101,
+    "name": "Candly",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/candly-1024x723.png",
+    "kind": "Normal"
+  },
+  {
+    "id": 102,
+    "name": "Porklet",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/porklet-1024x723.png",
+    "kind": "Fire"
+  },
+  {
+    "id": 103,
+    "name": "Hoglet",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/hoglet-1024x723.png",
+    "kind": "Fire"
+  },
+  {
+    "id": 104,
+    "name": "Barboraco",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/barboraco-1024x723.png",
+    "kind": "Fire"
+  },
+  {
+    "id": 105,
+    "name": "Kawsnow",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/kawsnow-1024x723.png",
+    "kind": "Water"
+  },
+  {
+    "id": 106,
+    "name": "Harectic",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/harectic-1024x723.png",
+    "kind": "Water"
+  },
+  {
+    "id": 107,
+    "name": "Seedko",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/seedko-1024x723.png",
+    "kind": "Plant"
+  },
+  {
+    "id": 108,
+    "name": "Seedkorsky",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/seedkorsky-1024x723.png",
+    "kind": "Plant"
+  },
+  {
+    "id": 109,
+    "name": "Pont",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/pont-1024x723.png",
+    "kind": "Mineral"
+  },
+  {
+    "id": 110,
+    "name": "Stalagca",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/Stalagca-1024x723.png",
+    "kind": "Mineral"
+  },
+  {
+    "id": 111,
+    "name": "Hinazuru",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/Hinazuru-1024x723.png",
+    "kind": "Wind"
+  },
+  {
+    "id": 112,
+    "name": "Nakazuru",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/nakazuru-1024x723.png",
+    "kind": "Wind"
+  },
+  {
+    "id": 113,
+    "name": "Senshizuru",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/senshizuru-1024x723.png",
+    "kind": "Wind"
+  },
+  {
+    "id": 114,
+    "name": "Eqo",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/eqo-1024x723.png",
+    "kind": "Electric"
+  },
+  {
+    "id": 115,
+    "name": "Soniqo",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/Soniqo-1024x723.png",
+    "kind": "Electric"
+  },
+  {
+    "id": 116,
+    "name": "Eqoloptera",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/eqoloptera-1024x723.png",
+    "kind": "Electric"
+  },
+  {
+    "id": 117,
+    "name": "Sectoc",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/sectoc-1024x723.png",
+    "kind": "Psychic"
+  },
+  {
+    "id": 118,
+    "name": "Minet",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/minet-1024x723.png",
+    "kind": "Psychic"
+  },
+  {
+    "id": 119,
+    "name": "Orologikus",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/orologikus-1024x723.png",
+    "kind": "Psychic"
+  },
+  {
+    "id": 120,
+    "name": "Folicurse",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/folicurse-1024x723.png",
+    "kind": "Ghost"
+  },
+  {
+    "id": 121,
+    "name": "Malitress",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/malitress-1024x723.png",
+    "kind": "Ghost"
+  },
+  {
+    "id": 122,
+    "name": "Poyal",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/poyal-1024x723.png",
+    "kind": "Normal"
+  },
+  {
+    "id": 123,
+    "name": "Puggard",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/puggard-1024x723.png",
+    "kind": "Normal"
+  },
+  {
+    "id": 124,
+    "name": "Brauncer",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/brauncer-1024x723.png",
+    "kind": "Normal"
+  },
+  {
+    "id": 125,
+    "name": "Chowser",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/chowser-1024x723.png",
+    "kind": "Fire"
+  },
+  {
+    "id": 126,
+    "name": "Cuisizle",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/cuisizle-1024x723.png",
+    "kind": "Fire"
+  },
+  {
+    "id": 127,
+    "name": "Jeloon",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/jeloon-1024x723.png",
+    "kind": "Water"
+  },
+  {
+    "id": 128,
+    "name": "Jeliflo",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/jeliflo-1024x723.png",
+    "kind": "Water"
+  },
+  {
+    "id": 129,
+    "name": "Jeliflux",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/jeliflux-1024x723.png",
+    "kind": "Water"
+  },
+  {
+    "id": 130,
+    "name": "Snush",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/snush-1024x723.png",
+    "kind": "Plant"
+  },
+  {
+    "id": 131,
+    "name": "Shloom",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/shloom-1024x723.png",
+    "kind": "Plant"
+  },
+  {
+    "id": 132,
+    "name": "Swamplow",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/swamplow-1024x723.png",
+    "kind": "Plant"
+  },
+  {
+    "id": 133,
+    "name": "Durtacles",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/durtacles-1024x723.png",
+    "kind": "Mineral"
+  },
+  {
+    "id": 134,
+    "name": "Roclas",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/roclas-1024x723.png",
+    "kind": "Mineral"
+  },
+  {
+    "id": 135,
+    "name": "Fanling",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/fanling-1024x723.png",
+    "kind": "Wind"
+  },
+  {
+    "id": 136,
+    "name": "Fandiose",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/fandiose-1024x723.png",
+    "kind": "Wind"
+  },
+  {
+    "id": 137,
+    "name": "Fainglori",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/fainglori-1024x723.png",
+    "kind": "Wind"
+  },
+  {
+    "id": 138,
+    "name": "Scooptor",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/scooptor-1024x723.png",
+    "kind": "Electric"
+  },
+  {
+    "id": 139,
+    "name": "Excravator",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/excravator-1024x723.png",
+    "kind": "Electric"
+  },
+  {
+    "id": 140,
+    "name": "Minetor",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/minetor-1024x723.png",
+    "kind": "Electric"
+  },
+  {
+    "id": 141,
+    "name": "Tundri",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/tundri-1024x723.png",
+    "kind": "Psychic"
+  },
+  {
+    "id": 142,
+    "name": "Tundrox",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/tundrox-1024x723.png",
+    "kind": "Psychic"
+  },
+  {
+    "id": 143,
+    "name": "Prankrow",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/prankrow-1024x723.png",
+    "kind": "Ghost"
+  },
+  {
+    "id": 144,
+    "name": "Kromicide",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/kromicide-1024x723.png",
+    "kind": "Ghost"
+  },
+  {
+    "id": 145,
+    "name": "Calfter",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/calfter-1024x723.png",
+    "kind": "Normal"
+  },
+  {
+    "id": 146,
+    "name": "Calplex",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/calplex-1024x723.png",
+    "kind": "Normal"
+  },
+  {
+    "id": 147,
+    "name": "Bullogan",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/bullogan-1024x723.png",
+    "kind": "Normal"
+  },
+  {
+    "id": 148,
+    "name": "Blit",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/blit-1024x723.png",
+    "kind": "Fire"
+  },
+  {
+    "id": 149,
+    "name": "Glontern",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/glontern-1024x723.png",
+    "kind": "Fire"
+  },
+  {
+    "id": 150,
+    "name": "Lamparos",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/lamparos-1024x723.png",
+    "kind": "Fire"
+  },
+  {
+    "id": 151,
+    "name": "Blublub",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/blublub-1-1024x723.png",
+    "kind": "Water"
+  },
+  {
+    "id": 152,
+    "name": "Globlob",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/globlob-1024x723.png",
+    "kind": "Water"
+  },
+  {
+    "id": 153,
+    "name": "Stalkee",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/Stalkee-1024x723.png",
+    "kind": "Plant"
+  },
+  {
+    "id": 154,
+    "name": "Mantoo",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/mantoo-1024x723.png",
+    "kind": "Plant"
+  },
+  {
+    "id": 155,
+    "name": "Mantrass",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/mantrass-1024x723.png",
+    "kind": "Plant"
+  },
+  {
+    "id": 156,
+    "name": "Rust",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/rust-1024x723.png",
+    "kind": "Mineral"
+  },
+  {
+    "id": 157,
+    "name": "Rustu",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/rustu-1024x723.png",
+    "kind": "Mineral"
+  },
+  {
+    "id": 158,
+    "name": "Rustung",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/rustung-1024x723.png",
+    "kind": "Mineral"
+  },
+  {
+    "id": 159,
+    "name": "Leechy",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/leechy-1024x723.png",
+    "kind": "Wind"
+  },
+  {
+    "id": 160,
+    "name": "Dracly",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/dracly-1024x723.png",
+    "kind": "Wind"
+  },
+  {
+    "id": 161,
+    "name": "Chirrent",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/chirrent-1024x723.png",
+    "kind": "Electric"
+  },
+  {
+    "id": 162,
+    "name": "Ostrolt",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/ostrolt-1024x723.png",
+    "kind": "Electric"
+  },
+  {
+    "id": 163,
+    "name": "Gomarm",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/gomarm-1024x723.png",
+    "kind": "Psychic"
+  },
+  {
+    "id": 164,
+    "name": "Guazharm",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/guazharm-1024x723.png",
+    "kind": "Psychic"
+  },
+  {
+    "id": 165,
+    "name": "Vodo",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/vodo-1024x723.png",
+    "kind": "Ghost"
+  },
+  {
+    "id": 166,
+    "name": "Malevodo",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/malevodo-1024x723.png",
+    "kind": "Ghost"
+  },
+  {
+    "id": 167,
+    "name": "Malenostra",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/malenostra-1-1024x723.png",
+    "kind": "Ghost"
+  },
+  {
+    "id": 168,
+    "name": "Goateeze",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/goateeze-1024x723.png",
+    "kind": "Normal"
+  },
+  {
+    "id": 169,
+    "name": "Goatlanche",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/goatlanche-1024x723.png",
+    "kind": "Normal"
+  },
+  {
+    "id": 170,
+    "name": "Lumbi",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/lumbi-1024x723.png",
+    "kind": "Fire"
+  },
+  {
+    "id": 171,
+    "name": "Tiki",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/tiki-1024x723.png",
+    "kind": "Fire"
+  },
+  {
+    "id": 172,
+    "name": "Streamole",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/streamole-1024x723.png",
+    "kind": "Water"
+  },
+  {
+    "id": 173,
+    "name": "Streamog",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/streamog-1024x723.png",
+    "kind": "Water"
+  },
+  {
+    "id": 174,
+    "name": "Streamoad",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/streamoad-1024x723.png",
+    "kind": "Water"
+  },
+  {
+    "id": 175,
+    "name": "Potpot",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/potpot-1024x723.png",
+    "kind": "Plant"
+  },
+  {
+    "id": 176,
+    "name": "Neglente",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/neglente-1024x723.png",
+    "kind": "Plant"
+  },
+  {
+    "id": 177,
+    "name": "Outgrov",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/outgrov-1024x723.png",
+    "kind": "Plant"
+  },
+  {
+    "id": 178,
+    "name": "Babicle",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/babicle-1024x723.png",
+    "kind": "Psychic"
+  },
+  {
+    "id": 179,
+    "name": "Shardice",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/shardice-1024x723.png",
+    "kind": "Psychic"
+  },
+  {
+    "id": 180,
+    "name": "Shardberg",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/shardberg-1024x723.png",
+    "kind": "Psychic"
+  },
+  {
+    "id": 181,
+    "name": "Foxdra",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/foxdra-1024x723.png",
+    "kind": "Ghost"
+  },
+  {
+    "id": 182,
+    "name": "Hohopi",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/Hohopi-1024x723.png",
+    "kind": "Normal"
+  },
+  {
+    "id": 183,
+    "name": "Mojompu",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/mojompu-1024x723.png",
+    "kind": "Normal"
+  },
+  {
+    "id": 184,
+    "name": "Ribombo",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/ribombo-1024x723.png",
+    "kind": "Fire"
+  },
+  {
+    "id": 185,
+    "name": "Bombargrof",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/bombargrof-1024x723.png",
+    "kind": "Fire"
+  },
+  {
+    "id": 186,
+    "name": "Bomblasta",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/bomblasta-1024x723.png",
+    "kind": "Fire"
+  },
+  {
+    "id": 187,
+    "name": "Cruff",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/cruff-1024x723.png",
+    "kind": "Water"
+  },
+  {
+    "id": 188,
+    "name": "Croncho",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/croncho-1024x723.png",
+    "kind": "Water"
+  },
+  {
+    "id": 189,
+    "name": "Domigator",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/domigator-1024x723.png",
+    "kind": "Water"
+  },
+  {
+    "id": 190,
+    "name": "Singletti",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/singletti-1024x723.png",
+    "kind": "Plant"
+  },
+  {
+    "id": 191,
+    "name": "Singlette",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/singlette-1024x723.png",
+    "kind": "Plant"
+  },
+  {
+    "id": 192,
+    "name": "Couplet",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/couplet-1024x723.png",
+    "kind": "Plant"
+  },
+  {
+    "id": 193,
+    "name": "Sandillo",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/sandillo-1024x723.png",
+    "kind": "Mineral"
+  },
+  {
+    "id": 194,
+    "name": "Gravello",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/gravello-1024x723.png",
+    "kind": "Mineral"
+  },
+  {
+    "id": 195,
+    "name": "Quarmor",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/quarmor-1024x723.png",
+    "kind": "Mineral"
+  },
+  {
+    "id": 196,
+    "name": "Croo",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/croo-1024x723.png",
+    "kind": "Wind"
+  },
+  {
+    "id": 197,
+    "name": "Cadeto",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/cadeto-1024x723.png",
+    "kind": "Wind"
+  },
+  {
+    "id": 198,
+    "name": "Navrigal",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/navrigal-1024x723.png",
+    "kind": "Wind"
+  },
+  {
+    "id": 199,
+    "name": "Woozy",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/woozy-1024x723.png",
+    "kind": "Electric"
+  },
+  {
+    "id": 200,
+    "name": "Frictingle",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/frictingle-1024x723.png",
+    "kind": "Electric"
+  },
+  {
+    "id": 201,
+    "name": "Magnipub",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/magnipub-1024x723.png",
+    "kind": "Psychic"
+  },
+  {
+    "id": 202,
+    "name": "Sunnos",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/sunnos-1024x723.png",
+    "kind": "Psychic"
+  },
+  {
+    "id": 203,
+    "name": "Starckal",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/starckal-1024x723.png",
+    "kind": "Psychic"
+  },
+  {
+    "id": 204,
+    "name": "Ponic",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/ponic-1024x723.png",
+    "kind": "Ghost"
+  },
+  {
+    "id": 205,
+    "name": "Giddiyelp",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/giddiyelp-1024x723.png",
+    "kind": "Ghost"
+  },
+  {
+    "id": 206,
+    "name": "Centeror",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/centeror-1024x723.png",
+    "kind": "Ghost"
+  },
+  {
+    "id": 207,
+    "name": "Skunqute",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/skunqute-1024x723.png",
+    "kind": "Normal"
+  },
+  {
+    "id": 208,
+    "name": "Skunqeau",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/skunqeau-1024x723.png",
+    "kind": "Normal"
+  },
+  {
+    "id": 209,
+    "name": "Skounquet",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/skounquet-1024x723.png",
+    "kind": "Normal"
+  },
+  {
+    "id": 210,
+    "name": "Tiliamber",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/tiliamber-2-1024x723.png",
+    "kind": "Fire"
+  },
+  {
+    "id": 211,
+    "name": "Blazetilia",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/blazetilia-2-1024x723.png",
+    "kind": "Fire"
+  },
+  {
+    "id": 212,
+    "name": "Mallish",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/mallish-1024x723.png",
+    "kind": "Water"
+  },
+  {
+    "id": 213,
+    "name": "Mallark",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/mallark-1024x723.png",
+    "kind": "Water"
+  },
+  {
+    "id": 214,
+    "name": "Thrammer",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/thrammer-1024x723.png",
+    "kind": "Water"
+  },
+  {
+    "id": 215,
+    "name": "Graciful",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/graciful-1024x723.png",
+    "kind": "Plant"
+  },
+  {
+    "id": 216,
+    "name": "Floreina",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/floreina-1024x723.png",
+    "kind": "Plant"
+  },
+  {
+    "id": 217,
+    "name": "Worb",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/worb-1024x723.png",
+    "kind": "Mineral"
+  },
+  {
+    "id": 218,
+    "name": "Parchidna",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/parchnida-1024x723.png",
+    "kind": "Mineral"
+  },
+  {
+    "id": 219,
+    "name": "Holoch",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/Holoch-1024x755.png",
+    "kind": "Mineral"
+  },
+  {
+    "id": 220,
+    "name": "Frogick",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/frogick-1024x723.png",
+    "kind": "Wind"
+  },
+  {
+    "id": 221,
+    "name": "Cranoad",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/cranoad-1024x723.png",
+    "kind": "Wind"
+  },
+  {
+    "id": 222,
+    "name": "Tesling",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/tesling-1024x723.png",
+    "kind": "Electric"
+  },
+  {
+    "id": 223,
+    "name": "Teslad",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/teslad-1024x723.png",
+    "kind": "Electric"
+  },
+  {
+    "id": 224,
+    "name": "Volpressor",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/volpressor-1024x723.png",
+    "kind": "Electric"
+  },
+  {
+    "id": 225,
+    "name": "Mimi",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/mimi-1024x723.png",
+    "kind": "Psychic"
+  },
+  {
+    "id": 226,
+    "name": "Mimorus",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/mimorus-1024x723.png",
+    "kind": "Psychic"
+  },
+  {
+    "id": 227,
+    "name": "Ripha",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/ripha-1024x723.png",
+    "kind": "Ghost"
+  },
+  {
+    "id": 228,
+    "name": "Grimmon",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/grimmon-1024x723.png",
+    "kind": "Ghost"
+  },
+  {
+    "id": 229,
+    "name": "Devoul",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/devoul-1024x723.png",
+    "kind": "Ghost"
+  },
+  {
+    "id": 230,
+    "name": "Rapi",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/rapi-1024x723.png",
+    "kind": "Normal"
+  },
+  {
+    "id": 231,
+    "name": "Rapilux",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/rapilux-1024x723.png",
+    "kind": "Normal"
+  },
+  {
+    "id": 232,
+    "name": "Pongo",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/pongo-1024x723.png",
+    "kind": "Fire"
+  },
+  {
+    "id": 233,
+    "name": "Imbuzi",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/imbuzi-1024x723.png",
+    "kind": "Fire"
+  },
+  {
+    "id": 234,
+    "name": "Imburion",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/imburion-1024x723.png",
+    "kind": "Fire"
+  },
+  {
+    "id": 235,
+    "name": "Hydrip",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/hydrip-1024x723.png",
+    "kind": "Water"
+  },
+  {
+    "id": 236,
+    "name": "Hydrose",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/hydrose-1024x723.png",
+    "kind": "Water"
+  },
+  {
+    "id": 237,
+    "name": "Auga",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/auga-1024x723.png",
+    "kind": "Plant"
+  },
+  {
+    "id": 238,
+    "name": "Florauga",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/florauga-1024x723.png",
+    "kind": "Plant"
+  },
+  {
+    "id": 239,
+    "name": "Quarauga",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/quarauga-1024x723.png",
+    "kind": "Plant"
+  },
+  {
+    "id": 240,
+    "name": "Moonline",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/moonline-1024x723.png",
+    "kind": "Psychic"
+  },
+  {
+    "id": 241,
+    "name": "Duh",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/duh-1024x723.png",
+    "kind": "Ghost"
+  },
+  {
+    "id": 242,
+    "name": "Duktar",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/duktar-1024x723.png",
+    "kind": "Ghost"
+  },
+  {
+    "id": 243,
+    "name": "Spektar",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/spektar-1024x723.png",
+    "kind": "Ghost"
+  },
+  {
+    "id": 244,
+    "name": "Bira",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/bira-1024x723.png",
+    "kind": "Normal"
+  },
+  {
+    "id": 245,
+    "name": "Biralo",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/biralo-1024x723.png",
+    "kind": "Normal"
+  },
+  {
+    "id": 246,
+    "name": "Bisina",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/bisina-1024x723.png",
+    "kind": "Normal"
+  },
+  {
+    "id": 247,
+    "name": "Nekpanchi",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/nekpanchi-1024x723.png",
+    "kind": "Fire"
+  },
+  {
+    "id": 248,
+    "name": "Nekgiri",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/nekgiri-1024x723.png",
+    "kind": "Fire"
+  },
+  {
+    "id": 249,
+    "name": "Felclaw",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/felclaw-1024x723.png",
+    "kind": "Fire"
+  },
+  {
+    "id": 250,
+    "name": "Coral",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/coral-1024x723.png",
+    "kind": "Water"
+  },
+  {
+    "id": 251,
+    "name": "Grebal",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/grebal-1024x723.png",
+    "kind": "Water"
+  },
+  {
+    "id": 252,
+    "name": "Greben",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/greben-1024x723.png",
+    "kind": "Water"
+  },
+  {
+    "id": 253,
+    "name": "Siki",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/siki-1024x723.png",
+    "kind": "Plant"
+  },
+  {
+    "id": 254,
+    "name": "Sikihob",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/sikihob-1024x723.png",
+    "kind": "Plant"
+  },
+  {
+    "id": 255,
+    "name": "Sikipha",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/sikipha-1024x723.png",
+    "kind": "Plant"
+  },
+  {
+    "id": 256,
+    "name": "Moonica",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/moonica-1024x723.png",
+    "kind": "Mineral"
+  },
+  {
+    "id": 257,
+    "name": "Moonette",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/moonette-1024x723.png",
+    "kind": "Mineral"
+  },
+  {
+    "id": 258,
+    "name": "Lunabelle",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/lunabelle-1024x723.png",
+    "kind": "Mineral"
+  },
+  {
+    "id": 259,
+    "name": "Sae",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/sae-1024x723.png",
+    "kind": "Wind"
+  },
+  {
+    "id": 260,
+    "name": "Palsae",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/palsae-1024x723.png",
+    "kind": "Wind"
+  },
+  {
+    "id": 261,
+    "name": "Dalsae",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/dalsae-1024x723.png",
+    "kind": "Wind"
+  },
+  {
+    "id": 262,
+    "name": "Omentic",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/omentic-1024x723.png",
+    "kind": "Electric"
+  },
+  {
+    "id": 263,
+    "name": "Omepark",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/omepark-1024x723.png",
+    "kind": "Electric"
+  },
+  {
+    "id": 264,
+    "name": "Omecharge",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/omecharge-1024x723.png",
+    "kind": "Electric"
+  },
+  {
+    "id": 265,
+    "name": "Yummo",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/yummo-1024x723.png",
+    "kind": "Psychic"
+  },
+  {
+    "id": 266,
+    "name": "Yomnom",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/yomnom-1024x723.png",
+    "kind": "Psychic"
+  },
+  {
+    "id": 267,
+    "name": "Glunch",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/glunch-1024x723.png",
+    "kind": "Psychic"
+  },
+  {
+    "id": 268,
+    "name": "Muu",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/muu-1024x723.png",
+    "kind": "Ghost"
+  },
+  {
+    "id": 269,
+    "name": "Carcaros",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/carcaros-1024x724.png",
+    "kind": "Ghost"
+  },
+  {
+    "id": 270,
+    "name": "Immortis",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/Immortis-1024x723.png",
+    "kind": "Ghost"
+  },
+  {
+    "id": 271,
+    "name": "Paupo",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/paupo-1024x723.png",
+    "kind": "Normal"
+  },
+  {
+    "id": 272,
+    "name": "Arispauva",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/arispauva-1024x723.png",
+    "kind": "Normal"
+  },
+  {
+    "id": 273,
+    "name": "Tantrunt",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/tantrunt-1024x723.png",
+    "kind": "Fire"
+  },
+  {
+    "id": 274,
+    "name": "Grath",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/grath-1024x723.png",
+    "kind": "Fire"
+  },
+  {
+    "id": 275,
+    "name": "Mermella",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/mermella-1024x723.png",
+    "kind": "Water"
+  },
+  {
+    "id": 276,
+    "name": "Sirnymfa",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/sirnymfa-1024x723.png",
+    "kind": "Water"
+  },
+  {
+    "id": 277,
+    "name": "Algon",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/algon-1024x723.png",
+    "kind": "Plant"
+  },
+  {
+    "id": 278,
+    "name": "Reeferus",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/reeferus-1024x723.png",
+    "kind": "Plant"
+  },
+  {
+    "id": 279,
+    "name": "Waser",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/waser-1024x723.png",
+    "kind": "Mineral"
+  },
+  {
+    "id": 280,
+    "name": "Wargoyle",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/wargoyle-1024x723.png",
+    "kind": "Mineral"
+  },
+  {
+    "id": 281,
+    "name": "Glidlee",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/glidlee-1024x723.png",
+    "kind": "Wind"
+  },
+  {
+    "id": 282,
+    "name": "Sorvian",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/sorvian-1024x721.png",
+    "kind": "Wind"
+  },
+  {
+    "id": 283,
+    "name": "Smanic",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/sonic-1024x723.png",
+    "kind": "Electric"
+  },
+  {
+    "id": 284,
+    "name": "Resonic",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/resonic-1024x723.png",
+    "kind": "Electric"
+  },
+  {
+    "id": 285,
+    "name": "Lovinu",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/lovinu-1024x723.png",
+    "kind": "Psychic"
+  },
+  {
+    "id": 286,
+    "name": "Lovidovi",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/lovidovi-1024x723.png",
+    "kind": "Psychic"
+  },
+  {
+    "id": 287,
+    "name": "Lurkost",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/lurkost-1024x723.png",
+    "kind": "Ghost"
+  },
+  {
+    "id": 288,
+    "name": "Lurkennie",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/lurkennie-1024x723.png",
+    "kind": "Ghost"
+  },
+  {
+    "id": 289,
+    "name": "Rapnux",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/rapnux-1024x723.png",
+    "kind": "Normal"
+  },
+  {
+    "id": 290,
+    "name": "Boilgog",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/boilgog-1024x723.png",
+    "kind": "Fire"
+  },
+  {
+    "id": 291,
+    "name": "Antarzen",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/antarzen-1024x723.png",
+    "kind": "Water"
+  },
+  {
+    "id": 292,
+    "name": "Florozard",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/florozard-1024x723.png",
+    "kind": "Plant"
+  },
+  {
+    "id": 293,
+    "name": "Blizstrong",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/blizstrong-1024x723.png",
+    "kind": "Mineral"
+  },
+  {
+    "id": 294,
+    "name": "Hyphoon",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/hyphoon-1024x723.png",
+    "kind": "Wind"
+  },
+  {
+    "id": 295,
+    "name": "Goblat",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/goblat-1024x723.png",
+    "kind": "Electric"
+  },
+  {
+    "id": 296,
+    "name": "Divette",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/divette-1024x723.png",
+    "kind": "Psychic"
+  },
+  {
+    "id": 297,
+    "name": "Gradow",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/gradow-1024x723.png",
+    "kind": "Ghost"
+  },
+  {
+    "id": 298,
+    "name": "Basil",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/basil-1024x723.png",
+    "kind": "Normal"
+  },
+  {
+    "id": 299,
+    "name": "Wysil",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/wysil-1024x723.png",
+    "kind": "Normal"
+  },
+  {
+    "id": 300,
+    "name": "Tarragon",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/tarragon-1024x723.png",
+    "kind": "Normal"
+  },
+  {
+    "id": 301,
+    "name": "Drare",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/drare-1024x723.png",
+    "kind": "Fire"
+  },
+  {
+    "id": 302,
+    "name": "Ignigon",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/ignigon-1024x723.png",
+    "kind": "Fire"
+  },
+  {
+    "id": 303,
+    "name": "Acegon",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/acegon-1024x723.png",
+    "kind": "Fire"
+  },
+  {
+    "id": 304,
+    "name": "Cryzzard",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/cryzzard-1024x723.png",
+    "kind": "Water"
+  },
+  {
+    "id": 305,
+    "name": "Blizzarm",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/blizzarm-1024x723.png",
+    "kind": "Water"
+  },
+  {
+    "id": 306,
+    "name": "Blizzaur",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/blizzaur-1024x723.png",
+    "kind": "Water"
+  },
+  {
+    "id": 307,
+    "name": "Briar",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/briar.png",
+    "kind": "Plant"
+  },
+  {
+    "id": 308,
+    "name": "Chaparral",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/chaparral-1024x723.png",
+    "kind": "Plant"
+  },
+  {
+    "id": 309,
+    "name": "Foreer",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/foreer-1024x723.png",
+    "kind": "Plant"
+  },
+  {
+    "id": 310,
+    "name": "Oren",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/oren-1024x723.png",
+    "kind": "Mineral"
+  },
+  {
+    "id": 311,
+    "name": "Orgot",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/orgot-1024x723.png",
+    "kind": "Mineral"
+  },
+  {
+    "id": 312,
+    "name": "Oregoon",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/oregoon-1024x723.png",
+    "kind": "Mineral"
+  },
+  {
+    "id": 313,
+    "name": "Flotter",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/flotter-1024x723.png",
+    "kind": "Wind"
+  },
+  {
+    "id": 314,
+    "name": "Dratter",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/dratter-1024x723.png",
+    "kind": "Wind"
+  },
+  {
+    "id": 315,
+    "name": "Furrygon",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/furrygon-1024x723.png",
+    "kind": "Wind"
+  },
+  {
+    "id": 316,
+    "name": "Volt",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/volt-1024x723.png",
+    "kind": "Electric"
+  },
+  {
+    "id": 317,
+    "name": "Volnamic",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/volnamic-1024x723.png",
+    "kind": "Electric"
+  },
+  {
+    "id": 318,
+    "name": "Voltaic",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/voltaic-1024x723.png",
+    "kind": "Electric"
+  },
+  {
+    "id": 319,
+    "name": "Wadgon",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/wadgon-1024x723.png",
+    "kind": "Psychic"
+  },
+  {
+    "id": 320,
+    "name": "Wadtail",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/wadtail-1024x723.png",
+    "kind": "Psychic"
+  },
+  {
+    "id": 321,
+    "name": "Horget",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/horget-1024x723.png",
+    "kind": "Psychic"
+  },
+  {
+    "id": 322,
+    "name": "Deyam",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/deyam-1024x723.png",
+    "kind": "Ghost"
+  },
+  {
+    "id": 323,
+    "name": "Deyama",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/deyama-1024x723.png",
+    "kind": "Ghost"
+  },
+  {
+    "id": 324,
+    "name": "Phantra",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/phantra-1024x723.png",
+    "kind": "Ghost"
+  },
+  {
+    "id": 325,
+    "name": "Dinja",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/dinga-1024x723.png",
+    "kind": "Normal"
+  },
+  {
+    "id": 326,
+    "name": "Dichala",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/dichala-1024x723.png",
+    "kind": "Normal"
+  },
+  {
+    "id": 327,
+    "name": "Namansi",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/namansi-1024x723.png",
+    "kind": "Normal"
+  },
+  {
+    "id": 328,
+    "name": "Lume",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/lume-1024x723.png",
+    "kind": "Fire"
+  },
+  {
+    "id": 329,
+    "name": "Lumefur",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/lumefur-1024x723.png",
+    "kind": "Fire"
+  },
+  {
+    "id": 330,
+    "name": "Lumerei",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/lumerei-1024x723.png",
+    "kind": "Fire"
+  },
+  {
+    "id": 331,
+    "name": "Noki",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/noki-1024x723.png",
+    "kind": "Water"
+  },
+  {
+    "id": 332,
+    "name": "Vainok",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/vainok-1024x723.png",
+    "kind": "Water"
+  },
+  {
+    "id": 333,
+    "name": "Hainok",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/hainok-1024x723.png",
+    "kind": "Water"
+  },
+  {
+    "id": 334,
+    "name": "Mara",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/mara-1024x723.png",
+    "kind": "Plant"
+  },
+  {
+    "id": 335,
+    "name": "Marasuma",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/marasuma-1024x723.png",
+    "kind": "Plant"
+  },
+  {
+    "id": 336,
+    "name": "Raksuma",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/raksuma-1024x723.png",
+    "kind": "Plant"
+  },
+  {
+    "id": 337,
+    "name": "Trebly",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/trebly-1024x723.png",
+    "kind": "Mineral"
+  },
+  {
+    "id": 338,
+    "name": "Treclay",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/treclay-1024x723.png",
+    "kind": "Mineral"
+  },
+  {
+    "id": 339,
+    "name": "Tresaur",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/tresaur-1024x723.png",
+    "kind": "Mineral"
+  },
+  {
+    "id": 340,
+    "name": "Mearn",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/mearn-1024x723.png",
+    "kind": "Wind"
+  },
+  {
+    "id": 341,
+    "name": "Felarnia",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/felarnia-1024x723.png",
+    "kind": "Wind"
+  },
+  {
+    "id": 342,
+    "name": "Yarnesty",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/yarnesty-1024x723.png",
+    "kind": "Wind"
+  },
+  {
+    "id": 343,
+    "name": "Gekoko",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/gekoko-1024x723.png",
+    "kind": "Electric"
+  },
+  {
+    "id": 344,
+    "name": "Kamelevo",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/kamelevo-1024x723.png",
+    "kind": "Electric"
+  },
+  {
+    "id": 345,
+    "name": "Reptomotor",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/reptomotr-1024x723.png",
+    "kind": "Electric"
+  },
+  {
+    "id": 346,
+    "name": "Masquiti",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/masqiti-1024x723.png",
+    "kind": "Psychic"
+  },
+  {
+    "id": 347,
+    "name": "Masqat",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/masqat-1024x723.png",
+    "kind": "Psychic"
+  },
+  {
+    "id": 348,
+    "name": "Feliblanqo",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/feliblanqo-1024x723.png",
+    "kind": "Psychic"
+  },
+  {
+    "id": 349,
+    "name": "Behilda",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/behilda-1024x723.png",
+    "kind": "Ghost"
+  },
+  {
+    "id": 350,
+    "name": "Heddeca",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/heddeca-1024x723.png",
+    "kind": "Ghost"
+  },
+  {
+    "id": 351,
+    "name": "Noocidal",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/noocidal-1024x723.png",
+    "kind": "Ghost"
+  },
+  {
+    "id": 352,
+    "name": "Wyverne",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/wyverne-1024x723.png",
+    "kind": "Normal"
+  },
+  {
+    "id": 353,
+    "name": "Dracon",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/dracon-1024x723.png",
+    "kind": "Fire"
+  },
+  {
+    "id": 354,
+    "name": "Glamond",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/glamond-1024x723.png",
+    "kind": "Water"
+  },
+  {
+    "id": 355,
+    "name": "Boscage",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/boscage-1024x723.png",
+    "kind": "Plant"
+  },
+  {
+    "id": 356,
+    "name": "Graloon",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/graloon-1024x723.png",
+    "kind": "Mineral"
+  },
+  {
+    "id": 357,
+    "name": "Tyrake",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/tyrake-1024x723.png",
+    "kind": "Wind"
+  },
+  {
+    "id": 358,
+    "name": "Volta",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/volta-1024x723.png",
+    "kind": "Electric"
+  },
+  {
+    "id": 359,
+    "name": "Mystogen",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/mystogen-1024x723.png",
+    "kind": "Psychic"
+  },
+  {
+    "id": 360,
+    "name": "Krainnull",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/krainnull-1024x723.png",
+    "kind": "Ghost"
+  },
+  {
+    "id": 361,
+    "name": "Byeol",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/byeol-1024x723.png",
+    "kind": "Normal"
+  },
+  {
+    "id": 362,
+    "name": "Mulcimer",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/mulcimer-1024x723.png",
+    "kind": "Fire"
+  },
+  {
+    "id": 363,
+    "name": "Nivalis",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/nivalis-1024x723.png",
+    "kind": "Water"
+  },
+  {
+    "id": 364,
+    "name": "Tikala",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/tikala-1024x723.png",
+    "kind": "Plant"
+  },
+  {
+    "id": 365,
+    "name": "Petram",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/petram-1024x723.png",
+    "kind": "Mineral"
+  },
+  {
+    "id": 366,
+    "name": "Eurus",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/eurus-1024x723.png",
+    "kind": "Wind"
+  },
+  {
+    "id": 367,
+    "name": "Bolzen",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/bolzen-1024x723.png",
+    "kind": "Electric"
+  },
+  {
+    "id": 368,
+    "name": "Ziegler",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/ziegler-1024x723.png",
+    "kind": "Normal"
+  },
+  {
+    "id": 369,
+    "name": "Fona",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/fona-1024x723.png",
+    "kind": "Fire"
+  },
+  {
+    "id": 370,
+    "name": "Arqua",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/arqua-1024x723.png",
+    "kind": "Water"
+  },
+  {
+    "id": 371,
+    "name": "Nara",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/nara-1024x723.png",
+    "kind": "Plant"
+  },
+  {
+    "id": 372,
+    "name": "Grunda",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/grunda-1024x723.png",
+    "kind": "Mineral"
+  },
+  {
+    "id": 373,
+    "name": "Ventra",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/ventra-1024x723.png",
+    "kind": "Wind"
+  },
+  {
+    "id": 374,
+    "name": "Luxa",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/luxa-1024x723.png",
+    "kind": "Electric"
+  },
+  {
+    "id": 375,
+    "name": "Darine",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/darine-1024x723.png",
+    "kind": "Psychic"
+  },
+  {
+    "id": 376,
+    "name": "Titan",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/titan-1024x723.png",
+    "kind": "Ghost"
+  },
+  {
+    "id": 377,
+    "name": "Fane",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/fane-1024x723.png",
+    "kind": "Ghost"
+  },
+  {
+    "id": 378,
+    "name": "Protovados",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/protovados-1024x723.png",
+    "kind": "Ghost"
+  },
+  {
+    "id": 379,
+    "name": "Vados",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/vados-1024x723.png",
+    "kind": "Ghost"
+  },
+  {
+    "id": 380,
+    "name": "Solus",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/solus-1024x723.png",
+    "kind": "Psychic"
+  },
+  {
+    "id": 381,
+    "name": "Omnisun",
+    "image": "https://pqube.co.uk/nexomon-extinction/wp-content/uploads/2020/08/omnisun-1024x723.png",
+    "kind": "Psychic"
+  }
+]
